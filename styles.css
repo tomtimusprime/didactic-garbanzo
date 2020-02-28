@@ -1,0 +1,11 @@
+#grayBox {
+    background-color: gray;
+    width: 200px;
+    height: 200px;
+    text-align:center;
+}
+
+#divText {
+    color: darkgray;
+    display:inline-block;
+}
